@@ -97,7 +97,7 @@
                                     <li><a href="index-4.html">Home 4</a></li>
                                 </ul>
                             </li>
-                            <li><a href="about-1.html">About</a></li>
+                            <li><a href="/about">About</a></li>
                             <li><a href="javascript:;">Services</a>
                                 <ul class="sub-menu">
                                     <li><a href="services-1.html">Services one</a></li>
