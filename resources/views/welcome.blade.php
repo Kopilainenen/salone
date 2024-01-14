@@ -41,9 +41,9 @@
     <link rel="stylesheet" type="text/css" href="{{ asset('/assets/css/flaticon.min.css')}}">
 
     <!-- REVOLUTION SLIDER CSS -->
-    <link rel="stylesheet" type="text/css" href="plugins/revolution/revolution/css/settings.css">
+    <link rel="stylesheet" type="text/css" href="{{ asset('/plugins/revolution/revolution/css/settings.css')}}">
     <!-- REVOLUTION NAVIGATION STYLE -->
-    <link rel="stylesheet" type="text/css" href="plugins/revolution/revolution/css/navigation.css">
+    <link rel="stylesheet" type="text/css" href="{{ asset('/plugins/revolution/revolution/css/navigation.css')}}">
 
     <!-- GOOGLE FONTS -->
     <link href="https://fonts.googleapis.com/css?family=Yeseva+One&display=swap" rel="stylesheet">
@@ -2102,8 +2102,8 @@
 <script  src="js/waypoints-sticky.min.js"></script><!-- STICKY HEADER -->
 <script  src="js/isotope.pkgd.min.js"></script><!-- MASONRY  -->
 <script  src="js/owl.carousel.min.js"></script><!-- OWL  SLIDER  -->
-<script  src="js/stellar.min.js"></script><!-- PARALLAX BG IMAGE   -->
-<script src="js/theia-sticky-sidebar.js"></script><!-- STICKY SIDEBAR  -->
+<script  src="{{asset('/assets/js/stellar.min.js')}}"></script><!-- PARALLAX BG IMAGE   -->
+<script src="{{ asset('/assets/s/theia-sticky-sidebar.js')}}"></script><!-- STICKY SIDEBAR  -->
 <script  src="js/custom.js"></script><!-- CUSTOM FUCTIONS  -->
 
 <!-- REVOLUTION JS FILES -->
@@ -2120,3 +2120,4 @@
 </body>
 
 </html>
+

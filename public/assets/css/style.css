@@ -2,25 +2,25 @@
 ==========================
 Template: Saloni
 Author: thewebmax team
-Version: 1.0  
+Version: 1.0
 ==========================
 */
 
 
 /*======================================
-  || CSS TABLE CONTENT ||  
+  || CSS TABLE CONTENT ||
 =======================================
 
 =======================================
-1. GENERAL 
+1. GENERAL
 =======================================
 
 =======================================
-2. HEADING & TITLE 
+2. HEADING & TITLE
 =======================================
 
 =======================================
-3. TEXT & PARAGRAPH 
+3. TEXT & PARAGRAPH
 =======================================
 
 	-------------------------------------
@@ -37,7 +37,7 @@ Version: 1.0
 	6. text bold
 
 ======================================
-4. LISTING STYLES 
+4. LISTING STYLES
 ======================================
 
 	-------------------------------------
@@ -89,9 +89,9 @@ Version: 1.0
 	-------------------------------------
 	1. position
 	-------------------------------------
-		1.1 relative		
-		1.2 absolute		
-		1.3 static	
+		1.1 relative
+		1.2 absolute
+		1.3 static
 	-------------------------------------
 	2. z-index
 	-------------------------------------
@@ -116,7 +116,7 @@ Version: 1.0
 	left right part css
 
 ======================================
-9. BOXES CSS 
+9. BOXES CSS
 ======================================
 
 	-------------------------------------
@@ -142,7 +142,7 @@ Version: 1.0
 	-------------------------------------
 
 ======================================
-10. IMAGES OVERLAY EFFECTS (overly animation on images)  
+10. IMAGES OVERLAY EFFECTS (overly animation on images)
 ======================================
 
 	-------------------------------------
@@ -154,96 +154,96 @@ Version: 1.0
 	-------------------------------------
 
 ======================================
-11. shortcodeS 
+11. shortcodeS
 ======================================
 
 	-------------------------------------
-	1. Buttons 
-	------------------------------------- 
-		1.1 theme default button 		
-		1.2 button text uppercase		
-		1.3 button size 		
-		1.4 button rounded		
-		1.6 white 		
-		1.7 black 		
-		1.8 Gray 		
-		1.9 pink 		
-		1.10 Blue		
-		1.11 Green		
-		1.12 Orange		
-		1.13 Red 		
-		1.14 Brown 
-		1.15 Yellow 
-		1.16 purple 
-		1.17 Graphical 
-		1.19 Outline 
-		1.20 Outline white  
-		1.21 Outline black 
-		1.22 Outline gray 
-		1.23 Outline pink 
-		1.24 Outline blue 
-		1.25 Outline green 
-		1.26 Outline orange 
-		1.27 Outline red 
-		1.28 Outline brown 
-		1.29 Outline yellow 
-		1.30 Outline purple 
-		1.31 Outline hover 
-		1.32 button text link 
-		1.33 text link white 
-		1.34 text link black 
-		1.35 text link Gray 
-		1.36 text link pink 
-		1.37 text link Blue 
-		1.38 text link Green 
-		1.39 text link Orange 
-		1.40 text link Red 
-		1.41 text link Brown 
-		1.42 text link Yellow 
-		1.43 text link purple 
-		1.44 app strore 
-		1.45 filter buttons css 
-		1.45(1) Masonry filter alignment [Left-Right-Center] 
-		1.45(2) Masonry filter link style 
-		1.45(3) Masonry filter button style 
-		1.45(4) Masonry filter button outline style 
+	1. Buttons
 	-------------------------------------
-	2. Title separators 
+		1.1 theme default button
+		1.2 button text uppercase
+		1.3 button size
+		1.4 button rounded
+		1.6 white
+		1.7 black
+		1.8 Gray
+		1.9 pink
+		1.10 Blue
+		1.11 Green
+		1.12 Orange
+		1.13 Red
+		1.14 Brown
+		1.15 Yellow
+		1.16 purple
+		1.17 Graphical
+		1.19 Outline
+		1.20 Outline white
+		1.21 Outline black
+		1.22 Outline gray
+		1.23 Outline pink
+		1.24 Outline blue
+		1.25 Outline green
+		1.26 Outline orange
+		1.27 Outline red
+		1.28 Outline brown
+		1.29 Outline yellow
+		1.30 Outline purple
+		1.31 Outline hover
+		1.32 button text link
+		1.33 text link white
+		1.34 text link black
+		1.35 text link Gray
+		1.36 text link pink
+		1.37 text link Blue
+		1.38 text link Green
+		1.39 text link Orange
+		1.40 text link Red
+		1.41 text link Brown
+		1.42 text link Yellow
+		1.43 text link purple
+		1.44 app strore
+		1.45 filter buttons css
+		1.45(1) Masonry filter alignment [Left-Right-Center]
+		1.45(2) Masonry filter link style
+		1.45(3) Masonry filter button style
+		1.45(4) Masonry filter button outline style
 	-------------------------------------
-		Separator defualt		
-		Separator liner		
-		Separator square		
+	2. Title separators
+	-------------------------------------
+		Separator defualt
+		Separator liner
+		Separator square
 		Separator icon
 	-------------------------------------
-	3. Deviders 
+	3. Deviders
 	-------------------------------------
-	4. TABS 
+	4. TABS
 	-------------------------------------
-		4.1 tabs style 1 [ default ] 		
-		tabs nav center 		
-		4.2 tabs bg  [ tabs background ] 		
-		4.3 tabs bg  [ tabs background ]		
-		4.4 tabs bg & top border  [ tabs background & top border in active ]		
-		4.4 tabs style 2 [ content with border outer ]		
-		4.5 tabs style 3  [ left-nav ] 		
-		4.6 tabs style 4  [ left-nav & content with border ] 		
-		4.7 tabs style 5  [ right-nav ] 		
+		4.1 tabs style 1 [ default ]
+		tabs nav center
+		4.2 tabs bg  [ tabs background ]
+		4.3 tabs bg  [ tabs background ]
+		4.4 tabs bg & top border  [ tabs background & top border in active ]
+		4.4 tabs style 2 [ content with border outer ]
+		4.5 tabs style 3  [ left-nav ]
+		4.6 tabs style 4  [ left-nav & content with border ]
+		4.7 tabs style 5  [ right-nav ]
 		4.8 tabs style 6  [ right-nav & content with border ]
 	-------------------------------------
-	5. Accordians 
+	5. Accordians
 	-------------------------------------
 	Accodian open close indicator css
-		1. Accordion defult		
-		2. Accordion outline		
-		3. Accordion bg gray		
-		4. Accordion bg primary		
+		1. Accordion defult
+		2. Accordion outline
+		3. Accordion bg gray
+		4. Accordion bg primary
 		5. Accordion bg dark
 	-------------------------------------
-	6. Carousels 
+	6. Carousels
 	-------------------------------------
 		6.1 Client carousel 1
 	-------------------------------------
-	7. Testimonials 
+	7. Testimonials
 	-------------------------------------
 		7.1 testimonial with background image
 		7.2 testimonial 6
@@ -253,82 +253,82 @@ Version: 1.0
 		8.1 Pricing table
 		8.2 pricing table style 2
 	-------------------------------------
-	9. Alert box 
+	9. Alert box
 	-------------------------------------
-	10. Image effects 
+	10. Image effects
 	-------------------------------------
-		10.1 image-opacity 
-		10.2 image-zoom 
-		10.3 image-zoom-slow 
-		10.4 image-shrink 
-		10.5 image-side-pan 
-		10.6 image-vertical-pan 
-		10.7 image-fade-in 
-		10.8 image-fade-out 
-		10.9 image-rotate 
-		10.10 image-sepia 
-		10.11 image-blurr 
-		10.12 image-blurr-invert 
-		10.13 image off color 
-		10.14 image on color 
+		10.1 image-opacity
+		10.2 image-zoom
+		10.3 image-zoom-slow
+		10.4 image-shrink
+		10.5 image-side-pan
+		10.6 image-vertical-pan
+		10.7 image-fade-in
+		10.8 image-fade-out
+		10.9 image-rotate
+		10.10 image-sepia
+		10.11 image-blurr
+		10.12 image-blurr-invert
+		10.13 image off color
+		10.14 image on color
 	-------------------------------------
-	11. Modal pop 
+	11. Modal pop
 	-------------------------------------
-	12. Social icons 
+	12. Social icons
 	-------------------------------------
-		12.1 social icon default 
-		12.2 social icon with border 
-		12.3 social icon dark 
-		12.4 social share icon style 1 
+		12.1 social icon default
+		12.2 social icon with border
+		12.3 social icon dark
+		12.4 social share icon style 1
 	-------------------------------------
-	13. Breadcrumb 
+	13. Breadcrumb
 	-------------------------------------
 		13.1 breadcrumb-row-1
-		13.2 Breadcrumb-1 
+		13.2 Breadcrumb-1
 	-------------------------------------
-	14. Google map 
+	14. Google map
 	-------------------------------------
-	16. Countdown clock 
+	16. Countdown clock
 	-------------------------------------
-	17. Form elements 
-	-------------------------------------  
-		17.1 input group 
-		17.3 radio & checkbox 
-		17.4 Browse Button css   
-		17.8 validation symbol 
-		17.9 error for select box 
-		17.10 succes for select box 
-		17.11 textarea 
+	17. Form elements
+	-------------------------------------
+		17.1 input group
+		17.3 radio & checkbox
+		17.4 Browse Button css
+		17.8 validation symbol
+		17.9 error for select box
+		17.10 succes for select box
+		17.11 textarea
 			17.11(1) resize-vertical
 			17.11(2) resize-horizontal
 			17.11(3) resize-none
 	-------------------------------------
-	18. Loading 
-	-------------------------------------  
+	18. Loading
+	-------------------------------------
 		18.1 loading - 1
 		18.2 loading - 2
 	-------------------------------------
-	19. Widgets 
-	------------------------------------- 
-		19.1 widget listing		
-		19.2 widget search custom		
-		19.3 widget search wp-default		
-		19.4 widget recent-posts		
-		19.8 widget tags-list		
-		19.14 widget gallery		
-		19.18 widget client slider 
+	19. Widgets
 	-------------------------------------
-	20. Table 
+		19.1 widget listing
+		19.2 widget search custom
+		19.3 widget search wp-default
+		19.4 widget recent-posts
+		19.8 widget tags-list
+		19.14 widget gallery
+		19.18 widget client slider
 	-------------------------------------
-	21. Video 
+	20. Table
+	-------------------------------------
+	21. Video
 	-------------------------------------
 ======================================
-12. WP DEFAULT  
+12. WP DEFAULT
 ======================================
 
 ======================================
-13. BLOG  
-====================================== 
+13. BLOG
+======================================
 
 	-------------------------------------
 	3. if no image with blog post
@@ -349,7 +349,7 @@ Version: 1.0
 	1. header full screen
 	-------------------------------------
 	2. without top bar
-	------------------------------------- 
+	-------------------------------------
 	3. map page header
 	-------------------------------------
 
@@ -357,10 +357,10 @@ Version: 1.0
 16. LOGO ( company identify  symbol )
 ======================================
 
-	1. logo for header 
+	1. logo for header
 	-------------------------------------
-	2. when header is sticky 
-	
+	2. when header is sticky
+
 ======================================
 17. MAIN BAR ( place logo & main-navigation )
 ======================================
@@ -370,7 +370,7 @@ Version: 1.0
 	1. Top Part Search Bar
 
 ======================================
-18. NAVIGATIONS 
+18. NAVIGATIONS
 ======================================
 
 	-------------------------------------
@@ -379,9 +379,9 @@ Version: 1.0
 	2. nav dark version
 	-------------------------------------
 	3. when header is sticky
-	-------------------------------------  
+	-------------------------------------
 	4. when header is sticky
-	-------------------------------------  
+	-------------------------------------
 	5. header id Fixed
 	-------------------------------------
 	6. header with bg primary color 1
@@ -391,7 +391,7 @@ Version: 1.0
 ======================================
 
 	-------------------------------------
-	1. inner page banner 
+	1. inner page banner
 	-------------------------------------
 
 ======================================
@@ -399,7 +399,7 @@ Version: 1.0
 ======================================
 
 	-------------------------------------
-	1. owl slider 
+	1. owl slider
 	-------------------------------------
 		1.1  next pre btn
 		1.2 owl dots button
@@ -415,13 +415,13 @@ Version: 1.0
 		1.12 owl dots nav position
 
 ======================================
-21. PAGINATION 
+21. PAGINATION
 ======================================
 
-	1. pagination style-1 
+	1. pagination style-1
 
 ======================================
-22. FOOTER 
+22. FOOTER
 ======================================
 
 	-------------------------------------
@@ -440,9 +440,9 @@ Version: 1.0
 ======================================
 
 	-------------------------------------
-	1. Section Head Part 
+	1. Section Head Part
 	-------------------------------------
-	2. Section Content Part 
+	2. Section Content Part
 	-------------------------------------
 
 ======================================
@@ -450,7 +450,7 @@ Version: 1.0
 ======================================
 
 	-------------------------------------
-	2. Contact us page 
+	2. Contact us page
 	-------------------------------------
 
 ======================================
@@ -470,37 +470,37 @@ Version: 1.0
 ======================================
 
 	-------------------------------------
-	1. Product Box 
+	1. Product Box
 	-------------------------------------
 
 ======================================
-29. content show on image box () 
+29. content show on image box ()
 ======================================
 
- 	info box show 
+ 	info box show
 
 ======================================
-30. Customize  Grouping css 
+30. Customize  Grouping css
 ======================================
 
 	-------------------------------------
-	1.set-radius 
-	------------------------------------- 
-	2. transition 
-	------------------------------------- 
-	3. float-clearfix 
+	1.set-radius
+	-------------------------------------
+	2. transition
+	-------------------------------------
+	3. float-clearfix
 	-------------------------------------
 
 ======================================
-32. Inner pages 
+32. Inner pages
 ======================================
-	------------------------------------- 
+	-------------------------------------
 	2. Out Team
 	-------------------------------------
 		2.6. Out Team six
-	------------------------------------- 
+	-------------------------------------
 	4. product block
-	------------------------------------- 
+	-------------------------------------
 ======================================
 33. Background Effects
 ======================================
@@ -556,7 +556,7 @@ Version: 1.0
 
 
 /*======================================
-1. GENERAL 
+1. GENERAL
 ======================================*/
 
 body {
@@ -691,12 +691,12 @@ table {
 	.col-xs-100pc {
 		width: 100%;
 	}
-	
+
 .wt-list-single-somefacts .col-xs-100pc {
 	width: inherit !important;
 
 	}
-	
+
 .wt-list-single-somefacts .col-xs-100pc h1, .wt-list-single-somefacts .col-xs-100pc h2, .wt-list-single-somefacts .col-xs-100pc h3{
     font-size: 22px;
     line-height: normal;
@@ -704,12 +704,12 @@ table {
 .wt-list-single-somefacts h1, .wt-list-single-somefacts h2, .wt-list-single-somefacts .col-xs-100pc h3{
     font-size: 22px;
     line-height: normal;
-}		
+}
 }
 
 @media only screen and (max-width:480px) {
 
-	
+
 .wt-list-single-somefacts .col-xs-100pc {
 	width: 100% !important;
 	}
@@ -720,7 +720,7 @@ table {
 
 
 /*======================================
-2. HEADING & TITLE 
+2. HEADING & TITLE
 ======================================*/
 
 h1,
@@ -843,7 +843,7 @@ h6 {
 
 
 /*======================================
-3. TEXT & PARAGRAPH 
+3. TEXT & PARAGRAPH
 ======================================*/
 
 p {
@@ -1113,7 +1113,7 @@ strong {
 
 
 /*======================================
-4. LISTING STYLES 
+4. LISTING STYLES
 ======================================*/
 
 dl,
@@ -2874,7 +2874,7 @@ ol.list-num-count.list-outline-none>li:before {
 
 
 /*======================================
-9. BOXES CSS 
+9. BOXES CSS
 ======================================*/
 
 .rounded-bx,
@@ -3545,7 +3545,7 @@ ol.list-num-count.list-outline-none>li:before {
 
 
 /*======================================
-10. IMAGES OVERLAY EFFECTS (overly animation on images)  
+10. IMAGES OVERLAY EFFECTS (overly animation on images)
 ======================================*/
 
 .wt-img-overlay1,
@@ -3613,12 +3613,12 @@ ol.list-num-count.list-outline-none>li:before {
 
 
 /*======================================
-11. shortcodeS 
+11. shortcodeS
 ======================================*/
 
 
 /*-------------------------------------
-	1. Buttons 
+	1. Buttons
 --------------------------------------- */
 
 
@@ -4320,12 +4320,12 @@ color:#111;
 @media only screen and (max-width: 991px) {
 .masonry-filter.filter-gradi>li a {
     padding: 10px 10px;
-}	
+}
 }
 @media only screen and (max-width: 767px) {
 .masonry-filter.filter-gradi>li a {
     padding: 4px 10px;
-}	
+}
 .filter-wrap{text-align:left !important;}
 }
 
@@ -4481,7 +4481,7 @@ color:#111;
 
 
 /*-------------------------------------
-	2. Title separators 
+	2. Title separators
 -------------------------------------*/
 
 .wt-separator-outer {
@@ -4504,11 +4504,11 @@ color:#111;
 .center .wt-small-separator div.sep-leaf-right:before,
 .center .wt-small-separator div.sep-leaf-left:before{
 	position: absolute;
-	content: '';	
+	content: '';
 	background-color:#ff99b8;
 	width: 35px;
 	height: 1px;
-	bottom: 14px;		
+	bottom: 14px;
 }
 .center .wt-small-separator div.sep-leaf-right:before{right: 22px;}
 .center .wt-small-separator div.sep-leaf-left:before{	left: 22px;}
@@ -4520,11 +4520,11 @@ color:#111;
 .left .wt-small-separator div.sep-leaf-right:before,
 .left .wt-small-separator div.sep-leaf-left:before{
 	position: absolute;
-	content: '';	
+	content: '';
 	background-color:#ff99b8;
 	width: 35px;
 	height: 1px;
-	bottom: 14px;		
+	bottom: 14px;
 }
 .left .wt-small-separator div.sep-leaf-right:before{right: 22px;}
 .left .wt-small-separator div.sep-leaf-left:before{	left: 22px;}
@@ -4533,7 +4533,7 @@ color:#111;
 
 
 /*-------------------------------------
-	3. Deviders 
+	3. Deviders
 -------------------------------------*/
 
 .wt-divider {
@@ -4594,7 +4594,7 @@ color:#111;
 
 
 /*-------------------------------------
-	4. TABS 
+	4. TABS
 -------------------------------------*/
 
 .wt-tabs:after {
@@ -4873,7 +4873,7 @@ color:#111;
 
 
 /*-------------------------------------
-	5. Accordians 
+	5. Accordians
 -------------------------------------*/
 
 .wt-accordion .wt-panel {
@@ -5147,7 +5147,7 @@ color:#111;
 
 
 /*-------------------------------------
-	7. Testimonials 
+	7. Testimonials
 -------------------------------------*/
 
 .testimonial-pic {
@@ -5204,7 +5204,7 @@ color:#111;
 .testimonial-2-outer:after {
     position: absolute;
     content: '';
-    background-color: 
+    background-color:
     #fff6ef;
     width: 100%;
     height: 250px;
@@ -5232,7 +5232,7 @@ color:#111;
 	line-height: 72px;
 	position: absolute;
 	color:#541f5c;
-	
+
 	transform:translateX(-50%);
 	-webkit-transform:translateX(-50%);
 }
@@ -5244,7 +5244,7 @@ color:#111;
 @media only screen and (max-width:767px){
 .testimonial-home {
 	margin:0px;
-}	
+}
 }
 .testimonial-home .owl-item .item {-webkit-transition: all 0.5s linear;	-moz-transition: all 0.5s linear;-ms-transition: all 0.5s linear;	-o-transition: all 0.5s linear;	transition: all 0.5s linear;}
 
@@ -5256,7 +5256,7 @@ color:#111;
 .testimonial-home .owl-item .item .testimonial-2 .testimonial-text{	padding:0px;	margin-bottom: 20px;}
 .testimonial-home .owl-item .item .testimonial-2 .testimonial-detail{padding:0px;}
 .testimonial-home .owl-item .item .testimonial-2 .testimonial-detail .testimonial-info{	padding:0px;	display:block;}
-.testimonial-home .owl-item .item .testimonial-2 .testimonial-name, 
+.testimonial-home .owl-item .item .testimonial-2 .testimonial-name,
 .testimonial-home .owl-item .item .testimonial-2 .testimonial-position{padding:0px;display:block; margin-bottom:10px;}
 
 .testimonial-home .owl-item .item .testimonial-2 .testimonial-name{font-size:28px;}
@@ -5560,7 +5560,7 @@ color:#111;
 }
 
 /*-------------------------------------
-	9. Alert box 
+	9. Alert box
 -------------------------------------*/
 
 .alert.alert-sm {
@@ -5604,7 +5604,7 @@ color:#111;
 
 
 /*-------------------------------------
-	10. Image effects 
+	10. Image effects
 -------------------------------------*/
 
 .wt-img-effect {
@@ -5845,7 +5845,7 @@ color:#111;
 
 
 /*-------------------------------------
-	11. Modal pop 
+	11. Modal pop
 -------------------------------------*/
 
 .modal-xlg {
@@ -5871,7 +5871,7 @@ color:#111;
 
 
 /*-------------------------------------
-	12. Social icons 
+	12. Social icons
 -------------------------------------*/
 
 .social-icons {
@@ -6059,7 +6059,7 @@ color:#111;
 
 
 /*-------------------------------------
-	13. Breadcrumb 
+	13. Breadcrumb
 -------------------------------------*/
 
 
@@ -6114,7 +6114,7 @@ color:#111;
 
 
 /*-------------------------------------
-	14. Google map 
+	14. Google map
 -------------------------------------*/
 
 .google-map {
@@ -6124,7 +6124,7 @@ color:#111;
 
 
 /*-------------------------------------
-	17. Form elements 
+	17. Form elements
 -------------------------------------*/
 
 label {
@@ -6363,7 +6363,7 @@ input[type=radio]:checked+label:before {
 
 
 /*-------------------------------------
-	18. Loading 
+	18. Loading
 -------------------------------------*/
 
 
@@ -6430,7 +6430,7 @@ input[type=radio]:checked+label:before {
 
 
 /*-------------------------------------
-	19. Widgets 
+	19. Widgets
 -------------------------------------*/
 
 .widget {
@@ -6485,7 +6485,7 @@ input[type=radio]:checked+label:before {
 	color: #dfba9f;
 }
 .site-footer.footer-light .widget_services ul li a:hover {
-    color: 
+    color:
     #541f5c;
 }
 
@@ -6751,8 +6751,8 @@ input[type=radio]:checked+label:before {
 	-moz-transition: all 0.5s linear;
 	-ms-transition: all 0.5s linear;
 	-o-transition: all 0.5s linear;
-	transition: all 0.5s linear;	
-	
+	transition: all 0.5s linear;
+
 }
 
 .widget_tag_cloud a:before{
@@ -6764,12 +6764,12 @@ input[type=radio]:checked+label:before {
 	width:0%;
 	height:100%;
 	z-index:-1;
-	
+
 	-webkit-transition: all 0.5s linear;
 	-moz-transition: all 0.5s linear;
 	-ms-transition: all 0.5s linear;
 	-o-transition: all 0.5s linear;
-	transition: all 0.5s linear;	
+	transition: all 0.5s linear;
 }
 .widget_tag_cloud a:hover:before{
 	width:100%;
@@ -6889,7 +6889,7 @@ input[type=radio]:checked+label:before {
 
 
 /*-------------------------------------
-	20. Table 
+	20. Table
 -------------------------------------*/
 
 
@@ -6943,7 +6943,7 @@ input[type=radio]:checked+label:before {
 
 
 /*-------------------------------------
-	21. Video 
+	21. Video
 -------------------------------------*/
 
 .yt-thum-box img {
@@ -6952,7 +6952,7 @@ input[type=radio]:checked+label:before {
 
 
 /*======================================
-12. WP DEFAULT  
+12. WP DEFAULT
 ======================================*/
 
 .alignnone {
@@ -7097,7 +7097,7 @@ blockquote span {
 
 
 /*======================================
-13. BLOG  
+13. BLOG
 ======================================*/
 
 .blog-post {
@@ -7322,7 +7322,7 @@ blockquote span {
 .blog-grid-1 {
 	margin-bottom:0px;
 }
-	
+
 }
 
 /*Latest Blog 1*/
@@ -7372,13 +7372,13 @@ blockquote span {
 .blog-list-1 .wt-post-meta{
 	border-bottom: 1px solid #eff3f6;
 	padding-bottom: 20px;
-} 
+}
 .blog-list-1 .wt-post-meta li{
 	color:#000;
-} 
+}
 .blog-list-1 .wt-post-meta li a{
 	color:#000;
-} 
+}
 
 
 .blog-list-1 .wt-post-info .post-author .post-author-pic {
@@ -7407,7 +7407,7 @@ blockquote span {
 }
 
 .blog-post-outer .blog-post:last-child{
-	margin-bottom:0px;	
+	margin-bottom:0px;
 }
 
 
@@ -7492,7 +7492,7 @@ blockquote span {
 	width: auto;
 	text-align: right;
 	opacity: 0;
-	
+
 	font-size: 12px;
 	border-radius: 3px;
 }
@@ -7714,7 +7714,7 @@ ol.comment-list li.comment .comment-body:hover .comment-author .avatar {
 	display: block;
 	margin-bottom: 20px;
 	}
-	
+
 	.comments-title {padding-left:15px; padding-right:15px;}
 }
 
@@ -8254,7 +8254,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 
 
 /*-------------------------------------
-	1. logo for header 
+	1. logo for header
 -------------------------------------*/
 
 .logo-header {
@@ -8328,7 +8328,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 
 
 /*-------------------------------------
-	2. when header is sticky 
+	2. when header is sticky
 -------------------------------------*/
 
 
@@ -8388,7 +8388,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	.top-bar .d-flex.justify-content-between{
 		display:block !important;
 	}
-	
+
 	.login-controls{margin-left: 10px;text-align: left;display: inline-block;}
 	.login-controls li:last-child {display: inline-block; margin-right: 0px;}
 	.social-bx{text-align: left;display: inline-block !important;}
@@ -8403,7 +8403,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 
 
 /*-------------------------------------
-	1. eamil-phone (left) 
+	1. eamil-phone (left)
 -------------------------------------*/
 
 
@@ -8560,7 +8560,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 
 
 /*======================================
-18. NAVIGATIONS 
+18. NAVIGATIONS
 ======================================*/
 
 
@@ -9031,7 +9031,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	.has-child .submenu-toogle {
 		display: block;
 	}
-	
+
 	.header-nav .has-child.nav-active > a + .submenu-toogle.fa.fa-angle-right::before {
 		content: "\f107";
 	}
@@ -9089,10 +9089,10 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	.header-fixed .navbar-toggler {
 		margin: 15px 0;
 	}
-	
+
 .header-nav.nav-animation .nav>li>a:before {
 	left: 30px;
-}	
+}
 }
 
 
@@ -9144,7 +9144,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	.header-style-2-light .header-nav .nav>li>a {
 		color: #0f1221;
 	}
-	
+
 .header-style-2-light .is-fixed.color-fill .header-nav .nav > li > a{
 	padding:12px 15px;
 }
@@ -9230,18 +9230,18 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	-moz-transition: all 0.5s linear;
 	-ms-transition: all 0.5s linear;
 	-o-transition: all 0.5s linear;
-	transition: all 0.5s linear;	
-	background-color:#fff;	
+	transition: all 0.5s linear;
+	background-color:#fff;
 }
 .mobile-sider-drawer-menu.active .header-nav {
 	left:15px;
 }
-.is-fixed.mobile-sider-drawer-menu .header-nav .nav, 
+.is-fixed.mobile-sider-drawer-menu .header-nav .nav,
 .header-fixed.mobile-sider-drawer-menu .header-nav .nav{
 	height:100vh !important;
 	width:100%;
 }
-.is-fixed.mobile-sider-drawer-menu .header-nav .nav > li > a, 
+.is-fixed.mobile-sider-drawer-menu .header-nav .nav > li > a,
 .header-fixed.mobile-sider-drawer-menu .header-nav .nav > li > a{
 	padding:12px 15px !important;
 }
@@ -9255,33 +9255,33 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	-moz-transition: all 0.5s linear;
 	-ms-transition: all 0.5s linear;
 	-o-transition: all 0.5s linear;
-	transition: all 0.5s linear;		
-} 
+	transition: all 0.5s linear;
+}
 
 
 #mobile-side-drawer{min-height:41px;}
 
 .mobile-sider-drawer-menu.active .icon-bar.icon-bar-first {
 	-moz-transform: rotate(45deg) translateX(3px) translateY(2px);
-	-webkit-transform: rotate(45deg) translateX(3px) translateY(2px); 
-	-o-transform: rotate(45deg) translateX(3px) translateY(2px); 
-	-ms-transform: rotate(45deg) translateX(3px) translateY(2px); 
-	transform: rotate(45deg) translateX(3px) translateY(2px); 
+	-webkit-transform: rotate(45deg) translateX(3px) translateY(2px);
+	-o-transform: rotate(45deg) translateX(3px) translateY(2px);
+	-ms-transform: rotate(45deg) translateX(3px) translateY(2px);
+	transform: rotate(45deg) translateX(3px) translateY(2px);
 }
 
 .mobile-sider-drawer-menu.active .icon-bar.icon-bar-three{
-	 -moz-transform: rotate(-45deg) translateX(3px) translateY(-2px); 
-	 -webkit-transform: rotate(-45deg) translateX(3px) translateY(-2px); 
-	 -o-transform: rotate(-45deg) translateX(3px) translateY(-2px); 
-	 -ms-transform: rotate(-45deg) translateX(3px) translateY(-2px); 
-	 transform: rotate(-45deg) translateX(3px) translateY(-2px); 
+	 -moz-transform: rotate(-45deg) translateX(3px) translateY(-2px);
+	 -webkit-transform: rotate(-45deg) translateX(3px) translateY(-2px);
+	 -o-transform: rotate(-45deg) translateX(3px) translateY(-2px);
+	 -ms-transform: rotate(-45deg) translateX(3px) translateY(-2px);
+	 transform: rotate(-45deg) translateX(3px) translateY(-2px);
 }
 
 .mobile-sider-drawer-menu .icon-bar.icon-bar-two{
 	position:relative;
 	right:0%;
 }
-.mobile-sider-drawer-menu.active .icon-bar.icon-bar-two{ 
+.mobile-sider-drawer-menu.active .icon-bar.icon-bar-two{
 	position:absolute;
 	right:100px;
 	opacity:0;
@@ -9322,7 +9322,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 }
 
 #page-boxed .header-style-1 .is-fixed.color-fill .main-bar {
-    background: 
+    background:
     #fff;
 }
 @media only screen and (max-width:1760px){
@@ -9440,7 +9440,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 
 
 /*-------------------------------------
-	1. inner page banner 
+	1. inner page banner
 -------------------------------------*/
 
 .wt-bnr-inr {
@@ -9473,7 +9473,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 		height: 330px;
 		padding-top: 120px;
 	}
-	
+
 	.wt-bnr-inr-entry {
 		text-align: center;
 	}
@@ -9504,7 +9504,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 
 
 /*-------------------------------------
-	1. owl slider 
+	1. owl slider
 -------------------------------------*/
 
 
@@ -9753,7 +9753,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 
 
 /*======================================
-21. PAGINATION 
+21. PAGINATION
 ======================================*/
 
 
@@ -9813,7 +9813,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 
 
 /*======================================
-22. FOOTER 
+22. FOOTER
 ======================================*/
 
 
@@ -10270,7 +10270,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	.wt-footer-bot-right .copyrights-nav {
 		float: none !important;
 	}
-	
+
 .footer-bottom .d-flex{
 	display:block !important;
 }
@@ -10468,7 +10468,7 @@ button.scroltop span {
 
 
 /*-------------------------------------
-	1. Section Head Part 
+	1. Section Head Part
 -------------------------------------*/
 
 .section-head {
@@ -10551,7 +10551,7 @@ button.scroltop span {
 
 
 /*-------------------------------------
-	2. Section Content Part 
+	2. Section Content Part
 -------------------------------------*/
 
 @media only screen and (max-width:1024px) {
@@ -10578,7 +10578,7 @@ button.scroltop span {
 
 
 /*-------------------------------------
-	2. Contact us page 
+	2. Contact us page
 -------------------------------------*/
 
 ul.contact-info li {
@@ -10717,7 +10717,7 @@ ul.contact-info li .fa {
 
 
 /*-------------------------------------
-	1. Product Box 
+	1. Product Box
 -------------------------------------*/
 
 .wt-product-box .price {
@@ -10806,7 +10806,7 @@ ul.contact-info li .fa {
 
 
 /*======================================
-29. content show on image box () 
+29. content show on image box ()
 ======================================*/
 
 @media only screen and (max-width:768px) {
@@ -10818,12 +10818,12 @@ ul.contact-info li .fa {
 
 
 /*======================================
-30. Customize  Grouping css 
+30. Customize  Grouping css
 ======================================*/
 
 
 /*-------------------------------------
-	1.set-radius 
+	1.set-radius
 -------------------------------------*/
 
 .btn,
@@ -10858,8 +10858,8 @@ ol.comment-list li.comment .comment-body {
 }
 
 
-/*------------------------------------- 
-	2. transition 
+/*-------------------------------------
+	2. transition
 -------------------------------------*/
 
 a,
@@ -10918,8 +10918,8 @@ a,
 }
 
 
-/*------------------------------------- 
-	3. float-clearfix 
+/*-------------------------------------
+	3. float-clearfix
 -------------------------------------*/
 
 .clearfix::after,
@@ -10934,16 +10934,16 @@ ol.commentlist li::after {
 
 
 /*======================================
-32. Inner pages 
+32. Inner pages
 ======================================*/
 
 
-/*------------------------------------- 
+/*-------------------------------------
 	2. Out Team
 -------------------------------------*/
 
 
-/*------------------------------------- 
+/*-------------------------------------
 	4. Product block
 -------------------------------------*/
 
@@ -11066,7 +11066,7 @@ ol.commentlist li::after {
 	.section-full.p-tb80 {
 		padding-top: 30px;
 		padding-bottom: 30px;
-	}	
+	}
 }
 
 
@@ -11325,12 +11325,12 @@ border: 8px solid #494949;
 	height:50px;
 	background-color:#541f5c;
 	left:20px;
-	
+
 	-webkit-transition: all 0.5s linear;
 	-moz-transition: all 0.5s linear;
 	-ms-transition: all 0.5s linear;
 	-o-transition: all 0.5s linear;
-	transition: all 0.5s linear;	
+	transition: all 0.5s linear;
 }
 
 .slider-social-info ul:before{
@@ -11376,12 +11376,12 @@ border: 8px solid #494949;
 	height:1px;
 	background-color:#541f5c;
 
-	
+
 	-webkit-transition: all 0.5s linear;
 	-moz-transition: all 0.5s linear;
 	-ms-transition: all 0.5s linear;
 	-o-transition: all 0.5s linear;
-	transition: all 0.5s linear;	
+	transition: all 0.5s linear;
 }
 
 .social-mobile-show .slider-social-info ul:before{
@@ -11412,7 +11412,7 @@ border: 8px solid #494949;
 	top: 0px;
 	right: 0px;
 	bottom: 0px;
-	width: 50px;	
+	width: 50px;
 }
 .slider-appointment-btn a{
 	color:#000;
@@ -11432,7 +11432,7 @@ border: 8px solid #494949;
 	-webkit-transform-origin: 0 0;
 	-ms-transform-origin: 0 0;
 	transform-origin: 0 0;
-	
+
 }
 
 
@@ -11447,12 +11447,12 @@ border: 8px solid #494949;
 	width:50px;
 	height:1px;
 	background-color:#541f5c;
-	
+
 	-webkit-transition: all 0.5s linear;
 	-moz-transition: all 0.5s linear;
 	-ms-transition: all 0.5s linear;
 	-o-transition: all 0.5s linear;
-	transition: all 0.5s linear;	
+	transition: all 0.5s linear;
 }
 
 
@@ -11474,7 +11474,7 @@ border: 8px solid #494949;
 
 @media only screen and (max-width:777px){
 .slider-appointment-btn{
-	width: 100%;	
+	width: 100%;
 }
 .slider-appointment-btn a{
 	top: auto;
@@ -11677,7 +11677,7 @@ Spin circle
 	z-index: 1;
 	display: flex;
 }
-	
+
 .video-icon-left span a{
 	padding: 10px;
 	border: 2px solid #fff;
@@ -11693,7 +11693,7 @@ Spin circle
 	font-size:24px;
 	position: absolute;
 	top: 50%;
-	left: 50%;	
+	left: 50%;
 	transform: translate(-50% , -50%);
 	-webkit-transform:translate(-50%, -50%);
 }
@@ -11900,7 +11900,7 @@ Spin circle
 	.banner-content-area {
 		padding: 130px 0px 60px;
 	}
-	
+
 	.banner-wrap .banner-textrow {
 		padding: 0 0 0px;
 	}
@@ -11957,7 +11957,7 @@ Spin circle
 }
 .map-apsolute-search .form-group{
 	margin-bottom: 10px;
-}	
+}
 .map-apsolute-search [class*='col-']:last-child .form-group{
 	margin-bottom:0px;
 }
@@ -12006,10 +12006,10 @@ Spin circle
 	bottom: -60px;
 	box-shadow: 0px 10px 50px rgba(0,0,0,0.2);
 	-webkit-box-shadow:0px 10px 50px rgba(0,0,0,0.2);
-	
+
 	transform:translateX(-50%);
 	-webkit-transform:translateX(-50%);
-	
+
 	-webkit-border-radius:6px;
 	border-radius:6px;
 }
@@ -12062,7 +12062,7 @@ Spin circle
 @media only screen and (max-width:767px) {
 	.main-categories-slider-outer{
 		margin-top:30px;
-	}	
+	}
 	.map-apsolute-search {
 		margin:30px auto 0px;
 	}
@@ -12098,7 +12098,7 @@ Spin circle
 }
 .slider-apsolute-search .form-group{
 	margin-bottom: 10px;
-}	
+}
 .slider-apsolute-search [class*='col-']:last-child .form-group{
 	margin-bottom:0px;
 }
@@ -12301,7 +12301,7 @@ Spin circle
 @media only screen and (max-width:991px) {
 	.cat-large {
 		height: 300px;
-	}	
+	}
 }
 
 
@@ -12316,7 +12316,7 @@ Spin circle
 
 .featured-cat-text .f-cat-icon{
 	font-size: 50px;
-	line-height: 56px;	
+	line-height: 56px;
 	text-align: left;
 	display: block;
 }
@@ -12566,7 +12566,7 @@ Spin circle
 
 .listing-cat-preview.active .fa-heart-o:before{
 	content:"\f004" !important;
-} 
+}
 
 .listing-cat-preview .preview-tooltip {
 	padding: 0px 15px;
@@ -12578,7 +12578,7 @@ Spin circle
 	display: none;
 	width: auto;
 	text-align: right;
-	
+
 	font-size: 12px;
 	line-height: 20px;
 	border-radius: 3px;
@@ -12684,7 +12684,7 @@ Spin circle
 	width:100%;
 	display:block;
 	-webkit-border-radius: 50%;
-	border-radius: 50%;	
+	border-radius: 50%;
 }
 
 .listing-place-timing{
@@ -12943,7 +12943,7 @@ Spin circle
 	margin-left:-58px;
 	bottom: -120px;
 	width: 116px;
-	
+
 	transform-origin: bottom center;
 	-webkit-transform-origin: bottom center;
 	-webkit-animation: moveIt 3.5s ease-in-out forwards infinite;
@@ -13534,7 +13534,7 @@ Spin circle
 .add-rate-bar-category {
 	display: block;
 	margin-right: 0px;
-}	
+}
 }
 
 .site-button-small {
@@ -13838,7 +13838,7 @@ h4.headline {
 }
 
 @media only screen and (max-width:991px) {
-	
+
 .im-icon-outer {
 	width: 49%;
 }
@@ -13857,7 +13857,7 @@ h4.headline {
 	.im-icon-outer {
 		width: 100%;
 	}
-	
+
 .section-full.p-b80{
 	padding-bottom:30px;
 }
@@ -13904,13 +13904,13 @@ h4.headline {
 /*==================================================
  * Effect 5
  * ===============================================*/
- 
+
 .icon-circle-box{
 	position:relative;
 	-moz-transition: all 0.2s linear;
 	-ms-transition: all 0.2s linear;
 	-o-transition: all 0.2s linear;
-	transition: all 0.2s linear;  
+	transition: all 0.2s linear;
 }
 
 .icon-circle-box .wt-icon-box-wraper{
@@ -13954,7 +13954,7 @@ h4.headline {
 	left:50%;
 	transform:translateX(-50%);
 	-webkit-transform:translateX(-50%);
-		
+
 	font-size: 100px;
 	line-height: 100px;
 	font-weight: 900;
@@ -13974,8 +13974,8 @@ h4.headline {
 
 .row.d-flex [class*="col-"]:last-child .icon-circle-box .wt-icon-box-wraper{
 	margin-bottom:0px;
-}	
-	
+}
+
 }
 
 /* box-active */
@@ -13999,7 +13999,7 @@ h4.headline {
 .icon-circle-box.active .icon-circle:before {
     border: 10px solid #541f5c;
 }
-.icon-circle-box.active .wt-tilte, 
+.icon-circle-box.active .wt-tilte,
 .icon-circle-box.active p{
 	color:#fff;
 }
@@ -14138,7 +14138,8 @@ textarea.form-control2 {
 }
 
 .welcome-section-top{
-	max-width:1400px;
+
+    max-width:1400px;
 	margin-left:auto;
 	margin-right:auto;
 	margin-top:30px;
@@ -14171,7 +14172,7 @@ textarea.form-control2 {
 	.welcome-section-top{
 		padding-top:40px;
 		padding-bottom:40px;
-	}	
+	}
 }
 @media only screen and (max-width:480px){
 	.welcom-to-section-bottom{
@@ -14180,7 +14181,7 @@ textarea.form-control2 {
 	.welcom-btn-position{
 		display:inline-block;
 	}
-	
+
 	.welcom-to-section-bottom img{
 		max-width: 110px;
 		float: right;
@@ -14372,7 +14373,7 @@ margin-bottom:0px;}
 .wt-team-1 .wt-media{
 	position:relative;
 	overflow:hidden;
-	text-align: center;	
+	text-align: center;
 }
 .wt-team-1 .team-social-center{
 	position: absolute;
@@ -14381,13 +14382,13 @@ margin-bottom:0px;}
 	bottom: 40px;
 	width:calc(100% - 20px);
 	background-color: rgba(255, 246, 239, 0.8);
-	
+
 	-webkit-transition: all 0.5s linear;
 	-moz-transition: all 0.5s linear;
 	-ms-transition: all 0.5s linear;
 	-o-transition: all 0.5s linear;
 	transition: all 0.5s linear;
-	overflow:hidden;	
+	overflow:hidden;
 }
 
 
@@ -14422,7 +14423,7 @@ margin-bottom:0px;}
 	background-color:#111111;
 	transform:translateY(-50%);
 	-webkit-transform:translateY(-50%);
-	
+
 	-webkit-transition: all 0.5s linear;
 	-moz-transition: all 0.5s linear;
 	-ms-transition: all 0.5s linear;
@@ -14466,7 +14467,7 @@ margin-bottom:0px;}
 	display: flex;
 	align-content: center;
 	flex-wrap: wrap;
-	padding-right:200px;	
+	padding-right:200px;
 	box-shadow: 0px 0px 30px rgba(0,0,0,0.1);
 	-webkit-box-shadow: 0px 0px 30px rgba(0,0,0,0.1);
 }
@@ -14492,15 +14493,15 @@ margin-bottom:0px;}
     left: 0px;
     width: 100%;
     height: 100%;
-	
+
 	transform:scale(0,0);
 	-webkit-transform:scale(0,0);
-	
+
 	-webkit-transition: all 0.5s linear;
 	-moz-transition: all 0.5s linear;
 	-ms-transition: all 0.5s linear;
 	-o-transition: all 0.5s linear;
-	transition: all 0.5s linear;	
+	transition: all 0.5s linear;
 }
 
 .instagram-box-1:hover .instagram-box-info{
@@ -14603,7 +14604,7 @@ margin-bottom:0px;}
 @media only screen and (max-width:640px){
 	.wt-team-1-single-info li span:first-child{
 		display:block;
-	}	
+	}
 }
 
 /*Gallery image effects*/
@@ -14689,7 +14690,7 @@ margin-bottom:0px;}
 }
 .project-img-effect-1 img{
   -webkit-transform: translateX(0px);
-  transform: translateX(0px);	
+  transform: translateX(0px);
 }
 .project-img-effect-1:hover img{
   zoom: 1;
@@ -14746,7 +14747,7 @@ margin-bottom:0px;}
 }
 .contact-nav .contact-nav-form .contact-nav-info{
 	box-shadow: 0px 0px 50px rgba(0,0,0,0.1);
-	-wbkit-box-shadow: 0px 0px 50px rgba(0,0,0,0.1);	
+	-wbkit-box-shadow: 0px 0px 50px rgba(0,0,0,0.1);
 	border: 10px solid #f4dcd4;
 }
 .contact-nav .contact-nav-form .form-control{
@@ -14914,12 +14915,12 @@ margin-bottom:0px;}
 	transform:scale(1.3);
 	-webkit-transform:scale(1.3);
 	z-index:1;
-	
+
 	-webkit-transition: all 0.5s linear;
 	-moz-transition: all 0.5s linear;
 	-ms-transition: all 0.5s linear;
 	-o-transition: all 0.5s linear;
-	transition: all 0.5s linear;	
+	transition: all 0.5s linear;
 }
 
 .gallery-center-slider.owl-carousel .owl-stage-outer{
